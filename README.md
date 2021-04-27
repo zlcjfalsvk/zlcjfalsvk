@@ -21,6 +21,11 @@ Here are some ideas to get you started:
 [![Notion](https://img.shields.io/badge/-Notion-1877f2?style=round-square&logo=Notion&link=https://www.notion.so/cheolcheol/Portfolio-9cc241aa3a7b41a1860d7b99ace40ef0)](https://www.notion.so/cheolcheol/Portfolio-9cc241aa3a7b41a1860d7b99ace40ef0)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cheolmin.choi1)](https://www.facebook.com/cheolmin.choi1)
 
+### 소개
+안녕하십니까 백엔드 개발자 cheolcheol 입니다. 현재 모젯이라는 회사에서 신사업 팀에서 백엔드 엔지니어로 근무하고 있으며 새로운 기술을 찾기보다는 사람들과 협업하고 서비스를 만들기 위해 어떻게 일을 해야하는지에 대해 알아가고 있습니다.
+
+Typescript를 좋아하며 최근에는 NestJS로 백엔드 앱서버 개발을 하고 있습니다.
+
 ### 경력
 - 모젯 (2020.09 ~ now)
     - 신사업팀 백엔드 엔지니어로 근무중입니다.
