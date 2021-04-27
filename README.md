@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 - name: cheolmin choi
 - email: zl0759vk@naver.com
-- link: [notion](https://www.notion.so/cheolcheol/Portfolio-9cc241aa3a7b41a1860d7b99ace40ef0)
+
+[![Notion](https://img.shields.io/badge/-Notion-1877f2?style=round-square&logo=Notion&link=https://www.notion.so/cheolcheol/Portfolio-9cc241aa3a7b41a1860d7b99ace40ef0)](https://www.notion.so/cheolcheol/Portfolio-9cc241aa3a7b41a1860d7b99ace40ef0)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&link=https://www.facebook.com/cheolmin.choi1)](https://www.facebook.com/cheolmin.choi1)
 
 ### 경력
 - 모젯 (2020.09 ~ now)
@@ -28,3 +30,4 @@ Here are some ideas to get you started:
     - 블록체인 거래소 플랫폼을 만드는 스타트업에서 백엔드 개발을 하였습니다.
 - 윈포시스 (2017.10 ~ 2018.12)
     - Metal 3D 프린터를 만드는 기업에서 웹 개발자로 근무 하였습니다.
+
