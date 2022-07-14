@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 - name: cheolmin choi
 - email: zl0759vk@naver.com
 
-<!--
-[![Notion](https://img.shields.io/badge/-Notion-1877f2?style=round-square&logo=Notion&labelColor=yellow&color=white&link=https://www.notion.so/cheolcheol/Portfolio-9cc241aa3a7b41a1860d7b99ace40ef0)](https://www.notion.so/cheolcheol/Portfolio-9cc241aa3a7b41a1860d7b99ace40ef0) 
--->
-[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&labelColor=blue&color=white&link=https://www.facebook.com/cheolmin.choi1)](https://www.facebook.com/cheolmin.choi1)
-
 ### 소개
 안녕하십니까 백엔드 개발자 cheolcheol 입니다. 새로운 기술을 찾기보다는 사람들과 협업하고 서비스를 만들기 위해 어떻게 일을 해야하는지에 대해 알아가고 있습니다.
 
@@ -40,3 +35,9 @@ Typescript를 좋아하며 최근에는 NestJS로 백엔드 앱서버 개발을 
 - 윈포시스 (2017.10 ~ 2018.12)
     - Metal 3D 프린터를 만드는 기업에서 웹 개발자로 근무 했습니다.
 
+
+<!--
+[![Notion](https://img.shields.io/badge/-Notion-1877f2?style=round-square&logo=Notion&labelColor=yellow&color=white&link=https://www.notion.so/cheolcheol/Portfolio-9cc241aa3a7b41a1860d7b99ace40ef0)](https://www.notion.so/cheolcheol/Portfolio-9cc241aa3a7b41a1860d7b99ace40ef0) 
+-->
+
+[![Facebook](https://img.shields.io/badge/-Facebook-1877f2?style=round-square&logo=facebook&logoColor=white&labelColor=blue&color=white&link=https://www.facebook.com/cheolmin.choi1)](https://www.facebook.com/cheolmin.choi1)
