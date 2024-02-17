@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - name: cheolmin choi
-- email: zl0759vk@naver.com
 - Resume: [![Resume](https://img.shields.io/badge/-Notion-1877f2?style=round-square&logo=Notion&labelColor=yellow&color=white&link=https://www.notion.so/cheolcheol/Portfolio-9cc241aa3a7b41a1860d7b99ace40ef0)](https://www.notion.so/cheolcheol/Portfolio-9cc241aa3a7b41a1860d7b99ace40ef0) 
   
