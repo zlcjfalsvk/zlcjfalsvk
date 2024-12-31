@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- name: cheolmin choi
-- Resume: [![Resume](https://img.shields.io/badge/-Notion-1877f2?style=round-square&logo=Notion&labelColor=yellow&color=white&link=https://www.notion.so/cheolcheol/Portfolio-9cc241aa3a7b41a1860d7b99ace40ef0)](https://www.notion.so/cheolcheol/Portfolio-9cc241aa3a7b41a1860d7b99ace40ef0) 
-  
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcheolmin-choi-39aa0119b%2F)
+
