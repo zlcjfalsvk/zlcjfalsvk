@@ -1,6 +1,6 @@
 # CheolCheol 👋 
 
-<a href="https://www.linkedin.com/in/cheolmin-choi-39aa0119b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cheolmin-choi-39aa0119b/)
 
 ### Backend
 
