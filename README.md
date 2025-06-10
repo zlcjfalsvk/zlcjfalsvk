@@ -1,4 +1,6 @@
-# CheolCheol 👋 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fcheolmin-choi-39aa0119b%2F)
+# CheolCheol 👋 
+
+<a href="https://www.linkedin.com/in/cheolmin-choi-39aa0119b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 ### Backend
 
